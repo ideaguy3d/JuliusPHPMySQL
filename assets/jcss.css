@@ -1,0 +1,32 @@
+body {
+    background-color: #434343;
+    color: whitesmoke;
+    font-family: "Segoe UI", sans-serif;
+    box-sizing: border-box;
+}
+
+section, div {
+    margin: 8px 8px 0 8px;
+    padding: 8px;
+    horiz-align: center;
+}
+
+.jcenter {
+    text-align: center;
+}
+
+#body-final > div > * {
+    display: inline-block;
+}
+
+#body-final > div  {
+    text-align: left;
+}
+
+.validation-error {
+    border: solid 4px red;
+}
+
+.validation-ok {
+    border: none;
+}
