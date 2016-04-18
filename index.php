@@ -29,7 +29,7 @@ if(count($_POST) > 0){
 <body class="jcenter">
 
 <header id="Header">
-    <img src="http://orig14.deviantart.net/f820/f/2014/019/c/2/profile_picture_by_trance_trap-d72y0g9.jpg">
+    <img src="https://julius.firebaseapp.com/assets/images/photo.gif">
     <h2>Join my jBlog mailing list</h2>
 </header>
 
